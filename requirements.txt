@@ -1,0 +1,7 @@
+openai
+pandas
+tqdm
+sentence-transformers
+chromadb
+python-dotenv
+openpyxl
