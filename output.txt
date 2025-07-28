@@ -1,0 +1,35 @@
+Category: Bribery
+Category Description: Bribery involves offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment. In financial institutions, such conduct typically aims to sway decisions or approvals improperly. This includes, but is not limited to: Offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment, Offering clients or vendors under-the-table benefits in exchange for contracts or information, Providing gifts or incentives to regulators, auditors, or procurement staff, Accepting “kickbacks” or personal compensation for steering business.
+Email: We can close this deal faster if you consider a little extra for the team behind the scenes.
+Violation: True
+Explanation: Suggests offering something extra in exchange for favorable treatment, which is indicative of bribery.
+
+Category: Employee Ethics
+Category Description: This category pertains to the moral principles and standards of conduct that employees must adhere to, ensuring honesty, integrity, and professionalism in all work-related activities. Violations include behaviors such as dishonesty, conflicts of interest, misuse of company resources, or any actions that compromise the firm's ethical standards. Employee Ethics refers to the principles and standards of conduct that employees must adhere to, ensuring honesty, integrity, and professionalism in all work-related activities. This includes: Honest communication and proper disclosures (e.g., reporting mistakes or conflicts of interest), Respectful treatment of colleagues and clients, Compliance with internal policies, codes of conduct, and external laws, Avoiding favoritism, discrimination, retaliation, or data misrepresentation.
+Email: I think we should prioritise the deal with Client X, even if it means bending some internal rules.
+Violation: True
+Explanation: Implying bypassing rules or compromising standards for a client suggests unethical behaviour.
+
+Category: Bribery
+Category Description: Bribery involves offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment. In financial institutions, such conduct typically aims to sway decisions or approvals improperly. This includes, but is not limited to: Offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment, Offering clients or vendors under-the-table benefits in exchange for contracts or information, Providing gifts or incentives to regulators, auditors, or procurement staff, Accepting “kickbacks” or personal compensation for steering business.
+Email: If you can ensure the approval for this project, I'll make sure your team gets priority in our upcoming deals.
+Violation: True
+Explanation: The message implies offering a benefit (priority in deals) in exchange for approval, constituting a bribery attempt.
+
+Category: Bribery
+Category Description: Bribery involves offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment. In financial institutions, such conduct typically aims to sway decisions or approvals improperly. This includes, but is not limited to: Offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment, Offering clients or vendors under-the-table benefits in exchange for contracts or information, Providing gifts or incentives to regulators, auditors, or procurement staff, Accepting “kickbacks” or personal compensation for steering business.
+Email: I’ve attached the documents; a little push on your side would be appreciated to finalize this deal swiftly.
+Violation: False
+Explanation: Using the phrase 'a little push' could be innocent or could imply a favor, but alone it doesn't confirm bribery.
+
+Category: Bribery
+Category Description: Bribery involves offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment. In financial institutions, such conduct typically aims to sway decisions or approvals improperly. This includes, but is not limited to: Offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment, Offering clients or vendors under-the-table benefits in exchange for contracts or information, Providing gifts or incentives to regulators, auditors, or procurement staff, Accepting “kickbacks” or personal compensation for steering business.
+Email: I’m counting on your discretion to get this sorted quietly; I can’t promise a lot, but I’ll make sure you’re rewarded later.
+Violation: True
+Explanation: Implying future reward for discreet handling suggests a covert bribery effort.
+
+Category: Bribery
+Category Description: Bribery involves offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment. In financial institutions, such conduct typically aims to sway decisions or approvals improperly. This includes, but is not limited to: Offering, giving, receiving, or soliciting something of value to influence the actions of an individual in a position of power, often to secure unfair advantages or preferential treatment, Offering clients or vendors under-the-table benefits in exchange for contracts or information, Providing gifts or incentives to regulators, auditors, or procurement staff, Accepting “kickbacks” or personal compensation for steering business.
+Email: If you help us secure this contract, I can ensure your company gets preferential treatment on future transactions.
+Violation: True
+Explanation: Offering future preferential treatment in exchange for assistance hints at bribery to influence decision-making.
